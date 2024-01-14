@@ -5,5 +5,5 @@ title: Home Link
 ## Testing Home Link
 
 
-[Test Link](/test)
+[Test Link](/)
 
