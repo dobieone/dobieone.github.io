@@ -8,5 +8,6 @@ Code test...
     let a = 100;
     let b = a*10;
 ```
+[Test Page](/test)
 
 
