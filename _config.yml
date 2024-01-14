@@ -1,5 +1,7 @@
 name: Martin's Developer Notebook
-theme: minima
+title: Martin's Developer Notebook
+description: Martin's Developer Notebook
+# theme: minima
 highlighter: rouge
 kramdown:
   math_engine: mathjax
