@@ -1,7 +1,3 @@
----
-layout: home
----
-
 
 ## A New Post
 
