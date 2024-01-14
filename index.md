@@ -1,11 +1,10 @@
 ---
 title: Test Post
 ---
-## A New Post
+## A Test Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-```js
+Code test...
+```vb
     let a = 100;
     let b = a*10;
 ```
