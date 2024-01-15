@@ -1,20 +1,16 @@
 title: Martin's Developer Notebook
 show_downloads: false
 description: Code from every part of my experiences, C#, Unity, Office Automation and other things...
-# theme: minima
 highlighter: rouge
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: "godalming123/minimal"
-# remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
 github:
-  is_user_page: false
+  is_user_page: true
 
-
-color-scheme: dark # ["dark", "light", "auto" or "auto-default-dark"]
+color-scheme: auto-default-dark # ["dark", "light", "auto" or "auto-default-dark"]
