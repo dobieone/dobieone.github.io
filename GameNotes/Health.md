@@ -4,7 +4,7 @@ When you look at a lot of games the player character will have a Health bar. A l
 
 When you read a lot of implementations online and especially tutorials for Unity a lot of them have one thing in common - they all have a component that manages health disconnected from the rest of the systems. It allows you to "damage" the character (I am assuming that the component is attached to a character and not some other "thing"). The component does not allow for changes in level or modifiers. They tend to be very simple.
 
-This is one solution I came up with...
+__This is one solution I came up with...__
 
 We don't store the actual health, we store the maximum and the amount of damage taken. Then when we apply a modifier we calculate the new Maximum Health using the Base Max Health. The apply the amount of Damage that has been taken to get the Current Health.
 
@@ -13,11 +13,15 @@ _All code is Pseudocode and will not run_
 ### Variables
 
 ```
-var BaseMaxHealth = 100         // The unmodified base for the maximum health value
-var MaxHealth = 100             // The maximum health value after modifiers have been applied
-var DamageTaken = 0             // The amount of damage that this character has taken
+// The unmodified base for the maximum health value
+var BaseMaxHealth = 100
+// The maximum health value after modifiers have been applied
+var MaxHealth = 100
+// The amount of damage that this character has taken
+var DamageTaken = 0
 
-var CurrentHealth = MaxHealth   // The health this character current has
+// The health this character current has
+var CurrentHealth = MaxHealth
 ```
 
 ### Methods
