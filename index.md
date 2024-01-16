@@ -2,6 +2,10 @@
 title: Martin's Developer Notebook
 ---
 
+## Game Development Concepts
+
+[Alternative Health Calculation](/GameNotes/Health.md) where you keep track of the maximum value to allow modifiers to be added easily.
+
 ## General C#
 
 Console Menu System (.Net Framework) [Repository](https://github.com/dobieone/ConsoleMenu)
