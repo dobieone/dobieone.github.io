@@ -6,6 +6,8 @@ title: Martin's Developer Notebook
 
 [Alternative Health Calculation](/GameNotes/Health.md) where you keep track of the maximum value to allow modifiers to be added easily.
 
+[Simple Combat Maths](/GameNotes/CombatMaths.md) using Attack vs Defense as it base stats.
+
 ## General C#
 
 Console Menu System (.Net Framework) [Repository](https://github.com/dobieone/ConsoleMenu)
