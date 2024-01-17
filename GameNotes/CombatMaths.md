@@ -11,6 +11,7 @@ To use these calculations you need these base stats
 * Damage
 * Critical Chance
 * Critical Damage
+
 #### Defender
 * Defense
 
