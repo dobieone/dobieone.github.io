@@ -12,6 +12,8 @@ title: Martin's Developer Notebook
 
 Console Menu System (.Net Framework) [Repository](https://github.com/dobieone/ConsoleMenu)
 
+A very simple Blackboard system to store game states (.Net Framework) [Repository](https://github.com/dobieone/Blackboard)
+
 
 ## Office Automation 
 
