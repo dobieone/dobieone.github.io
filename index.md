@@ -8,13 +8,17 @@ title: Martin's Developer Notebook
 
 * [Simple Combat Maths](/GameNotes/CombatMaths.md) using Attack vs Defense as it base stats.
 
-## General C#
+* Fuzzy text is a simple concept for converting Health (etc) numbers into interesting text [Repository](https://github.com/dobieone/FuzzyText)
 
-* A very simple Blackboard system to store game states (.Net Framework) [Repository](https://github.com/dobieone/Blackboard)
+## General C# (.Net Framework)
 
-* A simple FSM system showing how to manage basic NPC AI using states in a game [Repository](https://github.com/dobieone/FiniteStateMachine) 
+* A very simple Blackboard system to store game states -  [Repository](https://github.com/dobieone/Blackboard)
 
-* Console Menu System (.Net Framework) [Repository](https://github.com/dobieone/ConsoleMenu)
+* A simple FSM system showing how to manage basic NPC AI using states in a game - [Repository](https://github.com/dobieone/FiniteStateMachine) 
+
+* Console Menu System - [Repository](https://github.com/dobieone/ConsoleMenu)
+
+* RPG Inventory System - [Repository](https://github.com/dobieone/RPGInventory)
 
 
 ## Office Automation 
